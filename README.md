@@ -38,9 +38,11 @@ while True:
 ```
 ## OUPUT
 Client
+
 ![image](https://github.com/SJananisenthilkumar/3b_CHAT_USING_TCP_SOCKETS/assets/144871139/0db76e84-ea7f-4959-a170-4316e7110eec)
 
 Server
+
 ![image](https://github.com/SJananisenthilkumar/3b_CHAT_USING_TCP_SOCKETS/assets/144871139/4193e6ab-c850-4e74-a128-027ae652a729)
 
 ## RESULT
